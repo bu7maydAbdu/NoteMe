@@ -1,0 +1,9 @@
+*, 
+*::before,
+ *::after{
+    margin: 0;
+    border: 0;
+}
+
+body {
+display: flex;}
